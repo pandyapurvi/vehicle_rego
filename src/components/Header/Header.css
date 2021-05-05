@@ -1,0 +1,9 @@
+.header{
+  text-align: center;
+  background-color: lightgray;
+  padding: 1rem 0;
+}
+
+@media screen and (max-width: 400px) {
+  .header{font-size: 25px;}
+}
