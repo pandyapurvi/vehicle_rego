@@ -9,8 +9,8 @@
 
 ### `yarn start`
 
-To run the app write command `npm start`
-Application will open [http://localhost:3000](http://localhost:3000)
+* To run the app write command `npm start`
+* Application will open [http://localhost:3000](http://localhost:3000)
 
 
 ### `yarn test`
